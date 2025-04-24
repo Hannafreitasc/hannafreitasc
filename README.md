@@ -1,6 +1,6 @@
 
 ## Oiii! Eu sou a Hanna Yasmin 
-tô começando minha caminhada em análise e desenvolvimento de sistemas e decidi usar esse cantinho pra registrar o que tô aprendendo, testar umas ideias e construir aos poucos.
+Começando minha caminhada em análise e desenvolvimento de sistemas e decidi usar esse cantinho pra registrar o que tô aprendendo, testar umas ideias e construir aos poucos.
 nada muito certinho, mas com intenção. aqui tem código, tentativa, erro e evolução — do meu jeitinho. ✨✨
  <div>
   <a href="https://github.com/hannafreitasc">
